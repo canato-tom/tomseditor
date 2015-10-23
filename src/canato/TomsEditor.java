@@ -22,6 +22,9 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.SwingUtilities;
 
+/*
+** Adding a comment to the class
+*/
 public class TomsEditor extends JFrame implements ActionListener {
 
 	public static final String OPEN = "open";
