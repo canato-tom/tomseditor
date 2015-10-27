@@ -25,6 +25,7 @@ import javax.swing.SwingUtilities;
 /*
 ** Adding a comment to the class
 ** And a comment again
+** And a third comment
 */
 public class TomsEditor extends JFrame implements ActionListener {
 
